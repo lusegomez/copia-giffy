@@ -1,0 +1,16 @@
+.Navbar {
+    width: 100%;
+    height: 100px;
+    background-color: rebeccapurple;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.Logo {
+    width: 80px;
+    height: auto;
+    margin-inline: 50px;
+    border: 2px solid black;
+    border-radius: 100%;
+}

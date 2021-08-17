@@ -1,0 +1,11 @@
+.Gif {
+    margin-bottom: .5em;
+    position: relative;
+    float: left;   
+}
+
+.Gif img {
+    width: 100%;
+    height: 200px;
+    border-radius: 50px;
+}
